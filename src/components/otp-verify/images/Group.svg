@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="40px" viewBox="0 0 34 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 58 (101010) - https://sketch.com -->
+    <title>818EA286-083E-41B4-9B49-7F3E8F4E804A@3.00x</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="HANDOFF" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SMS_Auth" transform="translate(-172.000000, -261.000000)">
+            <g id="Group" transform="translate(160.000000, 253.000000)">
+                <polygon id="Rectangle-Copy-12" points="0 0 56 0 56 56 0 56"></polygon>
+                <g id="Group-22" transform="translate(12.250000, 8.166667)">
+                    <path d="M20.4166667,28.6384481 L22.1666667,28.6384481 L22.1666667,35.875 C22.1666667,37.6469136 20.7302469,39.0833333 18.9583333,39.0833333 L3.20833333,39.0833333 C1.43641976,39.0833333 0,37.6469136 0,35.875 L0,3.20833333 C0,1.43641976 1.43641976,0 3.20833333,0 L18.9583333,0 C20.7302469,0 22.1666667,1.43641976 22.1666667,3.20833333 L22.1666667,11.1538289 L20.4166667,11.1538289 L20.4166667,3.20833333 C20.4166667,2.40291807 19.7637486,1.75 18.9583333,1.75 L3.20833333,1.75 C2.40291807,1.75 1.75,2.40291807 1.75,3.20833333 L1.75,35.875 C1.75,36.6804153 2.40291807,37.3333333 3.20833333,37.3333333 L18.9583333,37.3333333 C19.7637486,37.3333333 20.4166667,36.6804153 20.4166667,35.875 L20.4166667,28.6384481 Z" id="Rectangle-36" fill="#6F7981" fill-rule="nonzero"></path>
+                    <rect id="Rectangle-7" fill="#6F7981" x="1.75" y="5.83333333" width="19.8333333" height="1.75"></rect>
+                    <rect id="Rectangle-7-Copy-3" fill="#6F7981" x="1.75" y="30.9166667" width="19.8333333" height="1.75"></rect>
+                    <rect id="Rectangle-7-Copy" fill="#6F7981" x="8.16666667" y="2.91666667" width="5.83333333" height="1.75" rx="0.875"></rect>
+                    <g id="Group-23" transform="translate(3.500000, 15.750000)" fill="#6F7981">
+                        <rect id="Rectangle-7-Copy-5" x="0" y="0" width="9.33333333" height="1.75" rx="0.875"></rect>
+                        <rect id="Rectangle-7-Copy-6" x="1.75" y="3.5" width="7.58333333" height="1.75" rx="0.875"></rect>
+                        <rect id="Rectangle-7-Copy-7" x="3.5" y="7" width="5.83333333" height="1.75" rx="0.875"></rect>
+                    </g>
+                    <rect id="Rectangle-7-Copy-4" fill="#6F7981" x="10.5" y="33.8333333" width="2.33333333" height="2.33333333" rx="1.16666667"></rect>
+                    <rect id="Rectangle-7-Copy-2" fill="#6F7981" x="15.1666667" y="2.91666667" width="1.75" height="1.75" rx="0.875"></rect>
+                    <g id="Group-20" transform="translate(14.583333, 12.833333)">
+                        <rect id="Rectangle-8" stroke="#6F7981" stroke-width="1.75" x="0.875" y="0.875" width="16.9166667" height="12.25" rx="1.75"></rect>
+                        <path d="M0.596810705,1.83923543 L1.78750733,0.556760659 L8.75297052,7.02375219 C9.08808274,7.33488267 9.60625423,7.33550835 9.94211685,7.02518807 L16.9445117,0.555324784 L18.1321077,1.84067131 L11.1297129,8.31053459 C10.122125,9.24149545 8.56761056,9.2396184 7.5622739,8.30622697 L0.596810705,1.83923543 Z" id="Path-3" fill="#6F7981" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
